@@ -230,7 +230,7 @@ const projects = [
     project_link: "https://ria-moderate.vercel.app/",
   },
   {
-    name: "RiaModerate",
+    name: "SharpBlog",
     description:
       "Own blog, which aims to teach how to develop web applications on one of the most popular MERN stacks. This project is made for educational purposes and is closed to new users.",
     tags: [
