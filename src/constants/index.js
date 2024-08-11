@@ -122,29 +122,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Frontend Developer Intern",
-    company_name: "Arixess",
-    icon: arixess,
+    title: "Javascript developer",
+    company_name: "RealTRADE",
+    icon: realtrade,
     iconBg: "#383E56",
-    date: "July 2023 - September 2023",
+    date: "Jun 2020 - Present",
     points: [
       "Developed and maintained web applications using React.js and other frontend technologies.",
       "Collaborated with cross-functional teams (designers, product managers, developers) to create high-quality user experiences.",
       "Implemented responsive design principles for optimal cross-browser compatibility.",
       "Contributed to code reviews and provided constructive feedback to teammates.",
-    ],
-  },
-  {
-    title: "Frontend Developer",
-    company_name: "RealTRADE",
-    icon: realtrade,
-    iconBg: "#E6DEDD",
-    date: "September 2023 -  Now",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
 ];
