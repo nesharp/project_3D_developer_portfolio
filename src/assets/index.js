@@ -37,6 +37,7 @@ import nextjs from "./tech/nextjs.png";
 import discodo from "./discodo.png";
 import riamoderate from "./riamoderate.png";
 import sharpblog from "./sharp_blog.png";
+import bossauto from "./bossauto.jpg";
 export {
   logo,
   backend,
@@ -72,4 +73,5 @@ export {
   discodo,
   riamoderate,
   sharpblog,
+  bossauto,
 };
